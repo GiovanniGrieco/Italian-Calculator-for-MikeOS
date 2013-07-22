@@ -16,8 +16,8 @@ Questo programma è stato migliorato con una completa traduzione in italiano per
 	In alternativa potete scaricare dalla cartella *release* di questa repository l'immagine del disco floppy contenente MikeOS 4.4 e la calcolatrice. È consigliabile utilizzare questa immagine su una *macchina virtuale*.
 	
 ### Registro aggiornamenti
-* #### 2.0.1 (22/07/2013)
-	1. Supporto lingua italiana
+* 2.0.1 (22/07/2013)
+	1. Supporto per la lingua italiana
 	2. File standalone "calcit.bas"
 	3. Nuovo schema colori
 	
@@ -27,7 +27,7 @@ Questo programma è protetto dalla licenza [GNU General Public Licence version 3
 ![GPL icon](http://www.gnu.org/graphics/gplv3-127x51.png "Logo GNU GPL v3")
 
 ### Links utili & Ringraziamenti
-Si ringrazia **Joshua Beck** per l'applicazione originale CALC.BAS (*incluso nella sorgente di MikeOS 4.4*)
+Si ringrazia **Joshua Beck** per l'applicazione originale CALC.BAS (incluso nella sorgente di MikeOS 4.4)
 
 Si ringrazia la squadra di sviluppatori di [MikeOS](mikeos.berlios.de "Sito ufficiale di MikeOS") per questo  sistema operativo.
 
