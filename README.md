@@ -29,6 +29,6 @@ Questo programma è protetto dalla licenza [GNU General Public Licence version 3
 ### Links utili & Ringraziamenti
 Si ringrazia **Joshua Beck** per l'applicazione originale CALC.BAS (incluso nella sorgente di MikeOS 4.4)
 
-Si ringrazia la squadra di sviluppatori di [MikeOS](mikeos.berlios.de "Sito ufficiale di MikeOS") per questo  sistema operativo.
+Si ringrazia la squadra di sviluppatori di [MikeOS](http://mikeos.berlios.de "Sito ufficiale di MikeOS") per questo  sistema operativo.
 
-Questo programma utilizza la Libreria MB++ disponibile su  [Google Code](code.google.com/p/mikebasic-applications "MB++ Library").
+Questo programma utilizza la Libreria MB++ disponibile su  [Google Code](http://code.google.com/p/mikebasic-applications "MB++ Library").

@@ -30,6 +30,6 @@ This program is protected by the [GNU General Public Licence version 3](http://w
 ### Useful Links & Thanks
 Thanks to **Joshua Beck** for the original program CALC.BAS (included in the source of MikeOS 4.4 and in my precompiled source)
 
-Thanks to the developers team of [MikeOS](mikeos.berlios.de "Official MikeOS Site") for this OS.
+Thanks to the developers team of [MikeOS](http://mikeos.berlios.de "Official MikeOS Site") for this OS.
 
-This program uses the MB++ Library avaiable at [Google Code](code.google.com/p/mikebasic-applications "MB++ Library").
+This program uses the MB++ Library avaiable at [Google Code](http://code.google.com/p/mikebasic-applications "MB++ Library").
